@@ -1,2 +1,2 @@
 # Hello_World
-First projects as a begginer :D
+First codes as a begginer :D
